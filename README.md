@@ -15,7 +15,9 @@ VPN stands for **Virtual Private Network**.
 
 ## 🛠 Tools You Can Use
 - [ProtonVPN Free](https://protonvpn.com/free-vpn)  
-- [Windscribe Free](https://windscribe.com/)  
+- [Windscribe Free](https://windscribe.com/)
+- [OpenVPN](https://openvpn.net/)
+     - And there are many more VPN in the Market.
 - [whatismyipaddress.com](https://whatismyipaddress.com) – to check your IP before/after VPN.  
 
 ---
@@ -42,12 +44,18 @@ VPN stands for **Virtual Private Network**.
 5. **Verify Connection**
    - Visit [whatismyipaddress.com](https://whatismyipaddress.com).  
    - Confirm your IP has changed.
-
-     ![](images/afterVPN.png)
+     
+| | |
+|---|---|
+| ![](images/beforeVPN.png) |  ![](images/afterVPN.png) |
+| **Before VPN** Connected. | **After VPN** Connected |
 
 6. **Disconnect & Test**
    - Disconnect VPN → Compare browsing speed and IP difference.
-  
-   ![](images/networkspeedbefore.png)
+
+| | |
+|---|---|
+  | ![](images/networktestbefore.png) | ![](images/networktestaftervpn.png) |
+  | Network speed **Before VPN** Connected. | Network speed **After VPN** Connected. |
 
 
